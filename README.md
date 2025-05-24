@@ -21,8 +21,8 @@ For a detailed overview of my work history, education, and certifications, pleas
 
 ### Miscellaneous Learning Resources
 
-- Learn C++ (with some annoying ads): https://www.learncpp.com/
-- All Things Linux: https://tldp.org/guides.html
+- Learn C++: https://www.learncpp.com/
+- Linux Guides: https://tldp.org/guides.html
 - TCP/IP Guide: http://www.tcpipguide.com/toc.htm
 - Embedded Systems: https://www.youtube.com/playlist?list=PLE4462C1C306E2EB2
 - OS Concepts: https://mohitmishra786.github.io/amILearningEnough/roadmap/os-dev/knowC/
